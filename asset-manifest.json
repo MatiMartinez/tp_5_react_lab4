@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tp_5_react_lab4/static/css/main.a9835bb0.chunk.css",
-    "main.js": "/tp_5_react_lab4/static/js/main.f30de01f.chunk.js",
-    "main.js.map": "/tp_5_react_lab4/static/js/main.f30de01f.chunk.js.map",
+    "main.js": "/tp_5_react_lab4/static/js/main.795eceab.chunk.js",
+    "main.js.map": "/tp_5_react_lab4/static/js/main.795eceab.chunk.js.map",
     "runtime-main.js": "/tp_5_react_lab4/static/js/runtime-main.cb9242e7.js",
     "runtime-main.js.map": "/tp_5_react_lab4/static/js/runtime-main.cb9242e7.js.map",
     "static/js/2.5928d76a.chunk.js": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js",
     "static/js/2.5928d76a.chunk.js.map": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js.map",
     "index.html": "/tp_5_react_lab4/index.html",
-    "precache-manifest.cf76b693d6fe5016f98416944d242b3e.js": "/tp_5_react_lab4/precache-manifest.cf76b693d6fe5016f98416944d242b3e.js",
+    "precache-manifest.4d78bc10d3b041bd28b1f2fa16f18ca7.js": "/tp_5_react_lab4/precache-manifest.4d78bc10d3b041bd28b1f2fa16f18ca7.js",
     "service-worker.js": "/tp_5_react_lab4/service-worker.js",
     "static/css/main.a9835bb0.chunk.css.map": "/tp_5_react_lab4/static/css/main.a9835bb0.chunk.css.map",
     "static/js/2.5928d76a.chunk.js.LICENSE.txt": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.cb9242e7.js",
     "static/js/2.5928d76a.chunk.js",
     "static/css/main.a9835bb0.chunk.css",
-    "static/js/main.f30de01f.chunk.js"
+    "static/js/main.795eceab.chunk.js"
   ]
 }

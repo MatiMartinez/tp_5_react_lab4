@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tp_5_react_lab4/static/css/main.a9835bb0.chunk.css",
+    "main.js": "/tp_5_react_lab4/static/js/main.f30de01f.chunk.js",
+    "main.js.map": "/tp_5_react_lab4/static/js/main.f30de01f.chunk.js.map",
+    "runtime-main.js": "/tp_5_react_lab4/static/js/runtime-main.cb9242e7.js",
+    "runtime-main.js.map": "/tp_5_react_lab4/static/js/runtime-main.cb9242e7.js.map",
+    "static/js/2.5928d76a.chunk.js": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js",
+    "static/js/2.5928d76a.chunk.js.map": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js.map",
+    "index.html": "/tp_5_react_lab4/index.html",
+    "precache-manifest.cf76b693d6fe5016f98416944d242b3e.js": "/tp_5_react_lab4/precache-manifest.cf76b693d6fe5016f98416944d242b3e.js",
+    "service-worker.js": "/tp_5_react_lab4/service-worker.js",
+    "static/css/main.a9835bb0.chunk.css.map": "/tp_5_react_lab4/static/css/main.a9835bb0.chunk.css.map",
+    "static/js/2.5928d76a.chunk.js.LICENSE.txt": "/tp_5_react_lab4/static/js/2.5928d76a.chunk.js.LICENSE.txt",
+    "static/media/camion.png": "/tp_5_react_lab4/static/media/camion.fd569b49.png",
+    "static/media/nro1.jpg": "/tp_5_react_lab4/static/media/nro1.ce019527.jpg",
+    "static/media/nro3.jpg": "/tp_5_react_lab4/static/media/nro3.c2da70b6.jpg",
+    "static/media/ubicacion.png": "/tp_5_react_lab4/static/media/ubicacion.1850fbe9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb9242e7.js",
+    "static/js/2.5928d76a.chunk.js",
+    "static/css/main.a9835bb0.chunk.css",
+    "static/js/main.f30de01f.chunk.js"
+  ]
+}

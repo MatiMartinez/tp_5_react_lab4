@@ -88,13 +88,9 @@ export default class Product extends Component {
               )}
               {/* Button Agregar Carrito */}
               <div className="mt-5">
-                <a
-                  href="http://akk.li/pics/anne.jpg"
-                  type="button"
-                  class="btn btn-outline-info w-100"
-                >
+                <button type="button" class="btn btn-outline-info w-100">
                   Agregar al carrito
-                </a>
+                </button>
               </div>
             </div>
           </div>
